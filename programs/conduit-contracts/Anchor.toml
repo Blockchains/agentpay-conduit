@@ -3,12 +3,12 @@ resolution = true
 skip-lint = false
 
 [programs.devnet]
-escrow = "B42nssBXyLNK1y9YFZUwtzJcS8dzLYoTwony38YCTDiG"
-registry = "6WMY6ymJkcT6AxcifmE8uzT5ZYQ4okZspFubxXg3TptS"
+escrow = "12pVEX65Q9JsGFNNu6sJufwmWyqHqLprL7zjDbw8mXNH"
+registry = "44iVtsz24Z1DZ6m4XFYCCLADmzUZA5oZt2jkmJ5nnwyn"
 
 [programs.localnet]
-escrow = "B42nssBXyLNK1y9YFZUwtzJcS8dzLYoTwony38YCTDiG"
-registry = "6WMY6ymJkcT6AxcifmE8uzT5ZYQ4okZspFubxXg3TptS"
+escrow = "12pVEX65Q9JsGFNNu6sJufwmWyqHqLprL7zjDbw8mXNH"
+registry = "44iVtsz24Z1DZ6m4XFYCCLADmzUZA5oZt2jkmJ5nnwyn"
 
 [provider]
 cluster = "devnet"

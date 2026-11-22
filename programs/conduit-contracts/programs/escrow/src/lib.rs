@@ -31,7 +31,7 @@ use anchor_spl::{
     token::{close_account, transfer, CloseAccount, Mint, Token, TokenAccount, Transfer},
 };
 
-declare_id!("B42nssBXyLNK1y9YFZUwtzJcS8dzLYoTwony38YCTDiG");
+declare_id!("12pVEX65Q9JsGFNNu6sJufwmWyqHqLprL7zjDbw8mXNH");
 
 /// Lower bound for `timeout_seconds`. This is a minimal on-chain sanity floor
 /// (rejects zero/negative). The gateway is expected to additionally refuse to
